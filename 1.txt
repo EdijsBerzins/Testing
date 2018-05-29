@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-
-=======
 Test
 Lets see how rebase works
 1
 2
 3
 4
-5
->>>>>>> Changes for test branch
 5
