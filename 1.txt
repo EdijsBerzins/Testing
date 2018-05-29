@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 
+=======
 Test
 Lets see how rebase works
 1
@@ -6,3 +8,4 @@ Lets see how rebase works
 3
 4
 5
+>>>>>>> Changes for test branch
