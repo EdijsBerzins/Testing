@@ -9,3 +9,4 @@ Lets see how rebase works
 4
 5
 >>>>>>> Changes for test branch
+5
